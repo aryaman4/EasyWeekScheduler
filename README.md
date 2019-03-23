@@ -9,3 +9,7 @@ We have used Flask with Python as the back-end framework and React for the front
 Read Flask documentation here [http://flask.pocoo.org/docs/1.0/]
 
 Read the contributing guide for further details on how the workflow for the project is.
+
+Collaborators:
+Nitish Poddar (npoddar2@illinois.edu)
+Aryaman Jain (aryaman4@illinois.edu)
